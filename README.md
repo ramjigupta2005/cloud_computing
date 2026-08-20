@@ -51,6 +51,19 @@ This work provided practical understanding of how cloud infrastructure is **depl
 
 It strengthened my knowledge of **Azure Cloud, Linux, networking, storage, security, and DevOps fundamentals** through hands-on implementation.
 
+## Task directories
+
+- `linux-commands` — Linux command reference
+- `azure-account-setup` — Create an Azure account
+- `azure-vm-provisioning` — Provision an Azure virtual machine
+- `vm-static-website-hosting` — Host a static website on a VM
+- `azure-storage-static-hosting-and-sas` — Static website hosting and SAS tokens in Azure Storage
+- `azure-vm-data-disk` — Attach and configure a VM data disk
+- `azure-vm-file-sharing` — Share files between Azure VMs
+- `vm-storage-snapshot-monitoring` — Storage expansion, snapshots, and VM alerts
+- `azure-vnet-subnet-peering` — Virtual networks, subnets, and VNet peering
+- `azure-load-balancer` — Configure an Azure public load balancer
+
 ## 🛠️ Technologies
 
 **Microsoft Azure • Linux • Kali Linux • Cloud Computing • Networking • Storage • IAM • RBAC • Load Balancing • Virtual Machines • DevOps**
